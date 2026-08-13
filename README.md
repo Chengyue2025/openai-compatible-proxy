@@ -15,7 +15,7 @@
 import openai
 
 client = openai.OpenAI(
-    base_url="https://combinations-corpus-current-confident.trycloudflare.com/v1",
+    base_url="https://challenged-easily-announced-incidents.trycloudflare.com/v1",
     api_key="你的key"
 )
 resp = client.chat.completions.create(
@@ -35,7 +35,7 @@ print(resp.choices[0].message.content)
 
 ## 立即购买
 
-👉 [https://combinations-corpus-current-confident.trycloudflare.com/ai-shop/](https://combinations-corpus-current-confident.trycloudflare.com/ai-shop/)
+👉 [https://challenged-easily-announced-incidents.trycloudflare.com/ai-shop/](https://challenged-easily-announced-incidents.trycloudflare.com/ai-shop/)
 
 ---
 **免责声明**：本服务为AI算力中转，不保证模型输出准确性。USDT支付自动发卡，不支持退款。
